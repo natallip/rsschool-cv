@@ -2,8 +2,6 @@
 
 ## Frontend Developer
 
----
-
 ### Contacts
 
 **Location:** Grodno
@@ -16,8 +14,6 @@
 
 **GitHub:** [https://github.com/natallip](https://github.com/natallip)
 
----
-
 ### Skills
 
 - html
@@ -28,19 +24,13 @@
 - vue.js
 - vuex
 
----
-
 ### Education
 
 web development courses
 
----
-
 ### English
 
 A2
-
----
 
 ### Experience
 
@@ -53,8 +43,6 @@ A2
   SPECTR - Frontend developer
 
   development of landing-page and multi-page sites
-
----
 
 ### Portfolio
 
