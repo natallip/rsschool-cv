@@ -41,3 +41,21 @@ web development courses
 A2
 
 ---
+
+### Experience
+
+- **2019 - Present**
+  VELOX IMAGING - Frontend developer
+
+  development of forms and reports for clinics in Canada
+
+- **2019**
+  SPECTR - Frontend developer
+
+  development of landing-page and multi-page sites
+
+---
+
+### Portfolio
+
+[https://petkevich-n.ru/](https://petkevich-n.ru/)
