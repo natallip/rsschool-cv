@@ -27,3 +27,17 @@
 - javascript
 - vue.js
 - vuex
+
+---
+
+### Education
+
+web development courses
+
+---
+
+### English
+
+A2
+
+---
