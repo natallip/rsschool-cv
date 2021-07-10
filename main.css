@@ -851,6 +851,7 @@ button {
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: flex-start;
+    padding-bottom: 70px;
   }
 }
 
@@ -861,7 +862,7 @@ button {
     text-align: left;
     border-top: 1px solid #404242;
     border-bottom: 1px solid #404242;
-    background: #282929;
+    background: #eee;
   }
 }
 
@@ -871,4 +872,38 @@ button {
     width: 100%;
     background: #fff;
   }
+}
+
+footer {
+  position: absolute;
+  bottom: 20px;
+  right: 20vw;
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 880px) {
+  footer {
+    right: auto;
+    left: 8%;
+  }
+}
+@media screen and (max-width: 380px) {
+  footer {
+    font-size: 10px;
+  }
+}
+
+/* footer a,
+footer img {
+  display: inline-block;
+}
+*/
+
+footer img {
+  width: 45px;
+  margin: 0 5px 0 20px;
+}
+footer a {
+  margin: 0 10px;
+  color: #3f4040;
 }
